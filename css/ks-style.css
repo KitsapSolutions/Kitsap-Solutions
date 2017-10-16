@@ -1,0 +1,27 @@
+body {
+    padding-top: 70px;
+}
+.jumbotron {
+    border: solid #5bc0de 1px;
+    color: #5bc0de;
+}
+.panel-body ul li {
+    list-style-type: none;
+}
+.panel-body ul li a {
+    color: black;
+}
+.panel-body {
+    background-color: darkgray;
+    color: black;
+}
+.panel-heading {
+    background-color: #5bc0de;
+}
+.panel-footer {
+    background-color: #5bc0de;
+}
+footer {
+    text-align: center;
+    color: #5bc0de;
+}
