@@ -13,8 +13,7 @@ var ksApp = angular.module('ksApp', ['ui.router']);
                 .state("social", {url: "/social", templateUrl: "./templates/social.html"})
                 .state("technology", {url: "/technology", templateUrl: "./templates/technology.html"})
                 .state("internet", {url: "/internet", templateUrl: "./templates/internet.html"})
-                .state("management",{url: "/management", templateUrl: "./templates/management.html"})
-                .state("bidboard", {url: "/bidboard", templateUrl: "./templates/bidboard.html"});
+                .state("management",{url: "/management", templateUrl: "./templates/management.html"});
             $urlRouterProvider.otherwise("/");
             $locationProvider.html5Mode(true);
         }]);

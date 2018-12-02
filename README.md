@@ -1,7 +1,7 @@
 # Kitsap Solutions
-Current version of the website in AngularJS and Angular Resource v1.3.16.
+Current version of the website in AngularJS v1.7.5.
 
-Angular UI-Router v0.2.15.
+Angular UI-Router v1.0.7.
 
 Bootstrap v3.3.5 and jQuery v2.1.4.
 
